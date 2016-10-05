@@ -1,0 +1,15 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#container{
+  width: 700px;
+  margin: 0px auto;
+  background-color: black;
+  padding: 10px;
+}
+    #container h1,p, img{
+      margin: 20px 0px;
+      color: white;
+    }
